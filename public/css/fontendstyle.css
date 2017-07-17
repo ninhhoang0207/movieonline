@@ -1,0 +1,31 @@
+body{
+	background: #555;
+}
+#header{
+	background: #222;
+	border-bottom: 5px solid yellow;
+	padding-top: 15px;
+}
+#footer{
+  margin-right: 30px;
+  text-align: center;
+  bottom: 0;
+  height: 60px;
+  width: 100%;
+  color: white;
+  background:#404040;
+  margin: auto;
+}
+
+#footer span{
+  text-align: center;
+  font-size: 30px;
+  line-height: 60px;
+  width: 60px;
+  color: white;
+}
+
+#footer span:hover{
+  background: white;
+  color:#404040;
+}

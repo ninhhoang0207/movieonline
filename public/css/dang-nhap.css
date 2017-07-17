@@ -1,0 +1,41 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+  background: #888;
+  font-family: 'Open Sans', sans-serif;
+  color:white;
+}
+
+#login-background{
+	background: #666;
+	margin:150px 0px;
+	border-radius: 10px;
+	border : 3px solid #333;
+	padding: 0px;
+	height: auto;
+}
+
+#login-lbl{
+	color: yellow;
+	background: #555;
+	width: 100%;
+	border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+#login-lbl h4{
+	padding-left: 15px;
+}
+
+a{
+	color:yellow;
+}
+
+#login-form{
+	margin-top: 20px;
+	height: 200px;
+	border-radius: 10px;
+}
+
+
+

@@ -1,0 +1,19 @@
+
+#header{
+	background: #222;
+	border-bottom: 1px solid yellow;
+	padding-top: 15px;
+}
+
+#footer span{
+  text-align: center;
+  font-size: 30px;
+  line-height: 60px;
+  width: 60px;
+  color: white;
+}
+
+#footer span:hover{
+  background: white;
+  color:#404040;
+}
